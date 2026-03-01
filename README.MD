@@ -1,0 +1,1 @@
+manual UPM wrapper from netstandard2.1 Release.
